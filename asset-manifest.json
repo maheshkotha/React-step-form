@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-step-form/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/React-step-form/static/js/main.f390ab0a.chunk.js",
+    "main.js.map": "/React-step-form/static/js/main.f390ab0a.chunk.js.map",
+    "runtime-main.js": "/React-step-form/static/js/runtime-main.988eb72a.js",
+    "runtime-main.js.map": "/React-step-form/static/js/runtime-main.988eb72a.js.map",
+    "static/js/2.82eb454b.chunk.js": "/React-step-form/static/js/2.82eb454b.chunk.js",
+    "static/js/2.82eb454b.chunk.js.map": "/React-step-form/static/js/2.82eb454b.chunk.js.map",
+    "static/js/3.63935415.chunk.js": "/React-step-form/static/js/3.63935415.chunk.js",
+    "static/js/3.63935415.chunk.js.map": "/React-step-form/static/js/3.63935415.chunk.js.map",
+    "index.html": "/React-step-form/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/React-step-form/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.82eb454b.chunk.js.LICENSE.txt": "/React-step-form/static/js/2.82eb454b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.988eb72a.js",
+    "static/js/2.82eb454b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f390ab0a.chunk.js"
+  ]
+}
